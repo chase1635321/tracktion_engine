@@ -9,3 +9,4 @@
  - Command to record a track many different times, detune slightly, and spread
  - Can use to integrate modular with stock plugins. Several computer inputs, each one can have an effects chain
  - Button to create sample library from modular patch
+ - Can auto export sample library to eurorack sampler module
